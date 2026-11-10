@@ -39,5 +39,5 @@ description: """
 The switch stores messages in queues with well-known names. Clients use
 a simple HTTP protocol to enqueue and dequeue messages."""
 url {
-  src: "https://github.com/contificate/xen-api/archive/refs/heads/cbarr/api-compat-package.tar.gz"
+  src: "https://github.com/contificate/xen-api/archive/refs/heads/cbarr/package-fix.tar.gz"
 }

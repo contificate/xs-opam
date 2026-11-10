@@ -50,5 +50,5 @@ x-maintenance-intent: ["(latest)"]
 available: os = "linux" | os = "macos"
 depexts: ["linux-headers"] {os-distribution = "alpine"}
 url {
-  src: "https://github.com/contificate/xen-api/archive/refs/heads/cbarr/api-compat-package.tar.gz"
+  src: "https://github.com/contificate/xen-api/archive/refs/heads/cbarr/package-fix.tar.gz"
 }

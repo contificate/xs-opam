@@ -34,5 +34,5 @@ This daemon watches a directory for subdirectories, and when a subdir
 is created a storage service is registered."""
 url {
   src:
-    "https://github.com/contificate/xen-api/archive/refs/heads/cbarr/api-compat-package.tar.gz"
+    "https://github.com/contificate/xen-api/archive/refs/heads/cbarr/package-fix.tar.gz"
 }
